@@ -1,0 +1,4 @@
+*.zip
+*.exe
+update-manifest.json
+.DS_Store
